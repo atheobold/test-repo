@@ -1,2 +1,4 @@
-# test-repo
-The first repo for Stat 331
+
+# Workshop for R 
+
+These files were from a workshop on using Git with Bash! 
